@@ -1,2 +1,1 @@
-# Social And Multiplayer Game Design MidTerm
- 
+# Social And Multiplayer Game Design MidTerm Controls are WASDPick Up Coins is Hold Left ClickDropping Coins into Chest let go left click
